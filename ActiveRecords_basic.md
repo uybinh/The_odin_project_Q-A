@@ -1,4 +1,4 @@
-# ActiveRecord questions
+# ActiveRecord Basic
 
 * What is an **ORM**?
 ORM stands for **Oject-Relational-Mapping**
