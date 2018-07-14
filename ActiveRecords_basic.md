@@ -17,3 +17,5 @@ ORM stands for **Oject-Relational-Mapping**
   2. *Save* the object into database
 
 * What are “generators” in Rails?
+
+[ActiveRecord Basic Lesson](https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-basics-ruby-on-rails)

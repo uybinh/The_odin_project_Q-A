@@ -39,6 +39,8 @@
 
 * What needs to happen for a class method to act like a scope?
 
+[ActiveRecord queries lesson](https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-queries)
+
 
 
 
