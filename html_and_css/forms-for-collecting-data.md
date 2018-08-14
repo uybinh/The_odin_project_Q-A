@@ -1,5 +1,5 @@
 * Why are forms probably the most important part of your site?
-  > forms are assential pasts o the internet
+  > forms are essential pasts o the internal
   > they provide a way for websites to capture information from users and to process requests
   > Forms play a large role in how users interact with, provide information to, and take action on websites.
 
@@ -10,7 +10,7 @@
   </form>
   ```
 * How do you specify which path the form gets submitted to?
-  use attribute `action` and `method`
+  > Use attribute `action` and `method`
   ```
   <form action="/hello/there" method="POST">
     ...
@@ -27,8 +27,9 @@
 * When should you use checkboxes instead of radio buttons?
   > when you want to select/choose multiple options at the same time
 
-* When should you use a combobox/dropdown instead of a text field?
-  > when you want user select from predefine options instead of entering with textfield
+* When should you use a combo-box/drop-down instead of a text field?
+  > when you want user select from predefine options instead of entering with
+  > text-field
 
 * How do you make a very large text field?
   > use `textarea` when you want to input a large amount of data
